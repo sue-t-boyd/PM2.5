@@ -6,9 +6,9 @@ Analysis of PM2.5 Pollution Near Kearney Nebraska - Prepared for UW MSDS 512 Hum
 - [Contents of the Repo](https://github.com/sue-t-boyd/PM2.5/edit/main/README.md#contents-of-this-repro)
 - [Data Sources](https://github.com/sue-t-boyd/PM2.5/edit/main/README.md#data-sources)
 - [Known Data Issues](https://github.com/sue-t-boyd/PM2.5/edit/main/README.md#6--summary-of-results)
-- Intermediate and Final Data Files
+- [Intermediate and Final Data Files](https://github.com/sue-t-boyd/PM2.5/blob/main/README.md#4-known-data-issues)
 - [Results](https://github.com/sue-t-boyd/PM2.5/edit/main/README.md#6--summary-of-results)
-- Repo Steps 
+- [Repo Steps](https://github.com/sue-t-boyd/PM2.5/blob/main/README.md#7--repro-steps)
 
 ## PROJECT PURPOSE
 Smoke from landscape fires – including both “wildfires” and prescribed burns – contributes to fine particulate matter pollution (PM2.5). Such pollution, in turn, increases asthma-related ER visits, hospital admissions, and mortality. This project investigates the impacts of wildfire smoke on the residents of Kearney, Nebraska. The project first examines wildfire activity over the past several decades near Kearney Nebraska and concludes that fire activity is increasing.  It then estimates the level of PM2.5 pollution that can be specifically attributable to landscape fires, as  opposed to other causes of PM2.5 pollution, leveraging data and methods by O’Dell et. al. described herein. Using the fire-specific estimates of PM2.5 pollution, the project then estimates the historic asthma-related ER visits, asthma-related hospital visits, and all-cause mortality among Kearney residents attributable to fire pollution. It also predicts how those values will change over time. It also places those findings in context by comparing premature mortality due to wildfire with other causes of premature mortality relevant to the residents of Kearney, Nebraska. 
@@ -228,7 +228,7 @@ Premature Mortality (All Causes)
 Relative Risk Ratios and Confidence Intervals 
  - Event: Asthma-Related ER Visits
  - RR: 1.07
- - 95% CI RR: (1.04-1.11)
+ - 95% CI RR: (1.03-1.11)
  - Source: Supporting Info for O'Dell et. al, "Estimated Mortality and Morbidity Attributable to Smoke Plumes in the US:  Not Just a Western US Problem", Supplemental Table S2.  (In turn sourced from Borchers Arriagada, N. et. al.,  Association between Fire Smoke Fine Particulate Matter and Asthma-Related Outcomes: Systematic Review and Meta-Analysis. Environmental Research 2019, 179, 108777. https://doi.org/10.1016/j.envres.2019.108777.
 - url:  https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2021GH000457&file=2021GH000457-sup-0001-Supporting+Information+SI-S01.docx
 
