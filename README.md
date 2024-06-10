@@ -226,29 +226,22 @@ Premature Mortality (All Causes)
 
 
 Relative Risk Ratios and Confidence Intervals 
-Event
-RR
-95% CI RR	
-Source
-URL
-Asthma-Related ER Visits
+ - Event: Asthma-Related ER Visits
+ - RR: 1.07
+ - 95% CI RR: (1.04-1.11)
+ - Source: Supporting Info for O'Dell et. al, "Estimated Mortality and Morbidity Attributable to Smoke Plumes in the US:  Not Just a Western US Problem", Supplemental Table S2.  (In turn sourced from Borchers Arriagada, N. et. al.,  Association between Fire Smoke Fine Particulate Matter and Asthma-Related Outcomes: Systematic Review and Meta-Analysis. Environmental Research 2019, 179, 108777. https://doi.org/10.1016/j.envres.2019.108777.
+- url:  https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2021GH000457&file=2021GH000457-sup-0001-Supporting+Information+SI-S01.docx
 
+- Event: Asthma-Related Hospital Admits
+- RR: 1.08
+- 95% CI RR: (1.03 – 1.14)
+- Source and url: same as for Asthma-Related ER Visits
 
-
-
-
-1.07
-(1.03 – 1.11)
-Supporting Info for O'Dell et. al, "Estimated Mortality and Morbidity Attributable to Smoke Plumes in the US:  Not Just a Western US Problem", Supplemental Table S2.  (In turn sourced from Borchers Arriagada, N. et. al.,  Association between Fire Smoke Fine Particulate Matter and Asthma-Related Outcomes: Systematic Review and Meta-Analysis. Environmental Research 2019, 179, 108777. https://doi.org/10.1016/j.envres.2019.108777.
-https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2021GH000457&file=2021GH000457-sup-0001-Supporting+Information+SI-S01.docx
-Asthma-Related Hospital Admits
-1.08
-(1.03 – 1.14)
-Premature Mortality
-1.06
-(1.04-1.08)
-Ford. et. al, relying on Krewski, D, et al. “Extended follow-up and spatial analysis of the American Cancer Society study linking particulate air pollution and mortality.” Vol. 140. Boston, MA: Health Effects Institute, 2009.
-https://westrk.org/CARBdocs/Krewski_052108.pdf
+- Event: Premature Mortality
+- RR: 1.06
+- 95% CI RR:(1.04-1.08)
+- Source:  Ford. et. al, relying on Krewski, D, et al. “Extended follow-up and spatial analysis of the American Cancer Society study linking particulate air pollution and mortality.” Vol. 140. Boston, MA: Health Effects Institute, 2009.
+- url: https://westrk.org/CARBdocs/Krewski_052108.pdf
 
 
 
